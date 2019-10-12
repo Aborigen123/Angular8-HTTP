@@ -1,0 +1,31 @@
+{
+  "title": {
+    "value": "Manager of cars"
+  },
+  "cars": [
+    {
+      "name": "Ford",
+      "id": 1
+    },
+    {
+      "color": "blue",
+      "id": 2
+    },
+    {
+      "id": 4
+    },
+    {
+      "color": "green",
+      "id": 5
+    },
+    {
+      "color": "green",
+      "id": 6
+    },
+    {
+      "name": "",
+      "color": "blue",
+      "id": 7
+    }
+  ]
+}
